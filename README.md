@@ -1,0 +1,14 @@
+TOPICS TO LEARN-
+- Infer Types (Implcit Types)
+- Defining Types (Explicit Types)
+- Interface
+- Types
+- Union/Optional
+- Functions
+- Named Types
+- Function overloading
+- Generics
+- Enums / as const
+- keyof / typeof
+- Uility Types
+- any / unknown / never / void
