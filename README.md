@@ -11,4 +11,4 @@ TOPICS TO LEARN-
 - Enums / as const
 - keyof / typeof
 - Uility Types
-- any / unknown / never / void
+- any / unknown / never / void / null
